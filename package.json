@@ -1,0 +1,19 @@
+{
+  "name": "test-node-typescript-repository",
+  "version": "0.0.0",
+  "description": "Test node typescript repository.",
+  "main": "index.js",
+  "repository": "https://github.com/vamtiger-project/test-node-typescript-repository.git",
+  "author": "Vamtiger Immortalles",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.53",
+    "@types/typescript": "^2.0.0"
+  },
+  "dependencies": {
+    "typescript": "^2.6.1"
+  }
+}
