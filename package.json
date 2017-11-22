@@ -15,7 +15,5 @@
     "@types/xregexp": "^3.0.29",
     "typescript": "^2.6.1"
   },
-  "dependencies": {
-    "xregexp": "^3.2.0"
-  }
+  "dependencies": {}
 }
