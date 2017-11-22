@@ -9,7 +9,7 @@
   "license": "MIT",
   "scripts": {
     "build": "tsc",
-    "commit": "vamtigerNodeTypescriptCommit"
+    "commit": "vamtigerNodeTypescriptCommit --push"
   },
   "devDependencies": {
     "@types/node": "^8.0.53",
