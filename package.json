@@ -1,8 +1,9 @@
 {
   "name": "vamtiger-test-node-typescript-repository",
-  "version": "0.0.33",
+  "version": "0.0.34-0",
   "description": "Test node typescript repository.",
-  "main": "index.js",
+  "main": "build",
+  "types": "build/index.d.ts",
   "repository": "https://github.com/vamtiger-project/test-node-typescript-repository.git",
   "author": "Vamtiger Immortalles",
   "license": "MIT",
