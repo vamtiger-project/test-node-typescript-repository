@@ -1,1 +1,1 @@
-console.log('test-node-typescript-repository'); // test
+console.log('test-node-typescript-repository');
