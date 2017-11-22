@@ -1,6 +1,6 @@
 {
   "name": "test-node-typescript-repository",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Test node typescript repository.",
   "main": "index.js",
   "repository": "https://github.com/vamtiger-project/test-node-typescript-repository.git",
