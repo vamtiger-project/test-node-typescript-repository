@@ -11,11 +11,11 @@
   },
   "devDependencies": {
     "@types/node": "^8.0.53",
-    "@types/typescript": "^2.0.0"
+    "@types/typescript": "^2.0.0",
+    "@types/xregexp": "^3.0.29",
+    "typescript": "^2.6.1"
   },
   "dependencies": {
-    "@types/xregexp": "^3.0.29",
-    "typescript": "^2.6.1",
     "xregexp": "^3.2.0"
   }
 }
