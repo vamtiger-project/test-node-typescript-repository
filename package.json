@@ -1,6 +1,6 @@
 {
   "name": "vamtiger-test-node-typescript-repository",
-  "version": "0.0.31",
+  "version": "0.0.32-0",
   "description": "Test node typescript repository.",
   "main": "index.js",
   "repository": "https://github.com/vamtiger-project/test-node-typescript-repository.git",
@@ -11,11 +11,11 @@
   },
   "devDependencies": {
     "@types/node": "^8.0.53",
-    "@types/typescript": "^2.0.0"
+    "@types/typescript": "^2.0.0",
+    "@types/xregexp": "^3.0.29",
+    "typescript": "^2.6.1"
   },
   "dependencies": {
-    "@types/xregexp": "^3.0.29",
-    "typescript": "^2.6.1",
     "xregexp": "^3.2.0"
   }
 }
