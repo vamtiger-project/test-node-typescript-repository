@@ -1,6 +1,6 @@
 {
   "name": "vamtiger-test-node-typescript-repository",
-  "version": "0.0.75",
+  "version": "0.0.76-0",
   "description": "Test node typescript repository.",
   "main": "build",
   "types": "build/index.d.ts",
@@ -9,7 +9,7 @@
   "license": "MIT",
   "scripts": {
     "build": "tsc",
-    "commit": "vamtigerNodeTypescriptCommit --push --publish"
+    "commit": "vamtigerNodeTypescriptCommit --push --publish --test"
   },
   "devDependencies": {
     "@types/node": "^8.0.53",
