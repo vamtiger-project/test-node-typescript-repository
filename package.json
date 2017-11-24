@@ -1,6 +1,6 @@
 {
   "name": "vamtiger-test-node-typescript-repository",
-  "version": "0.0.71",
+  "version": "0.0.72-0",
   "description": "Test node typescript repository.",
   "main": "build",
   "types": "build/index.d.ts",
