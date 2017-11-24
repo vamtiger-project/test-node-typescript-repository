@@ -1,2 +1,2 @@
-declare const _default: "2017 November 24 - 10:17:42.067";
+declare const _default: "2017 November 24 - 10:26:53.386";
 export default _default;
