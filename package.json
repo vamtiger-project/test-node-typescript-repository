@@ -1,6 +1,6 @@
 {
   "name": "vamtiger-test-node-typescript-repository",
-  "version": "0.0.100-0",
+  "version": "0.0.104-0",
   "description": "Test node typescript repository.",
   "main": "build",
   "types": "build/index.d.ts",
@@ -16,5 +16,7 @@
     "@types/typescript": "^2.0.0",
     "typescript": "^2.6.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "vamtiger-node-typescript-commit": "file:///Users/vamtiger/Documents/Programming/VamtigerProject/vamtiger-node-typescript-commit"
+  }
 }
