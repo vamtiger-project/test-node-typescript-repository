@@ -17,6 +17,6 @@
     "typescript": "^2.6.1"
   },
   "dependencies": {
-    "vamtiger-node-typescript-commit": "file:///Users/vamtiger/Documents/Programming/VamtigerProject/vamtiger-node-typescript-commit"
+    "vamtiger-node-typescript-commit": "0.0.2"
   }
 }
